@@ -3,7 +3,7 @@
 ### Autor: Angeles Lara Jean Pool
 este proyecto esta desarrollado para la **universidad continental**
 
-![alt text](image.jpg)
+![GATOS](gato-2.jpg)
 
 
 https://www.markdownguide.org/cheat-sheet/
